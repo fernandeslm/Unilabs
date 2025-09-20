@@ -1,0 +1,4 @@
+2025-09-20 18:47:55,551 - INFO - Processed INSERT for ProductID=1 on 2023-03-01
+2025-09-20 18:47:55,552 - INFO - Processed INSERT for ProductID=2 on 2023-03-02
+2025-09-20 18:47:55,552 - INFO - Processed UPDATE for ProductID=3 on 2023-01-03
+2025-09-20 18:47:55,553 - INFO - Processed DELETE for ProductID=4 on 2023-01-04

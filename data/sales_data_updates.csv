@@ -1,0 +1,5 @@
+ChangeType,Date,ProductID,ProductName,QuantitySold,Price,Category,CustomerID
+INSERT,2023-03-01,1,Widget A,10,2.5,Gadgets,101
+INSERT,2023-03-02,2,Gadget B,7,3.0,Gadgets,102
+UPDATE,2023-01-03,3,Widget C,9,4.5,Widgets,103
+DELETE,2023-01-04,4,Gizmo D,3,5.0,Gizmos,104
