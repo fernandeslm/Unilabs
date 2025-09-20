@@ -11,7 +11,7 @@ Brief description of the project, its purpose, and main features.
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-org/unilabs.git
+    git clone https://github.com/fernandeslm/Unilabs.git
     cd unilabs
     ```
 
